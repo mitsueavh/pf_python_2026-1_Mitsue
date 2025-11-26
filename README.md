@@ -2,6 +2,7 @@
 
 - No usen chatgpt
 - Crea un fork de este repositorio y agregale _nombre donde nombre es tu nombre para que puedas entregar la liga del repositorio.
+- Los datos se encuentran en el link: https://drive.google.com/drive/folders/106hrTwEGPvbAWKYNCwP-Dw90nLCwrF0V?usp=sharing , selecciona un año y que no se repita entre tus compañeros.
 
 
 ## Fecha de entrega
@@ -57,5 +58,6 @@ Para el proyecto final tendrás que realizar lo siguiente:
 
     
 9. La clase debe estar implementada como un paquete local
+
 
 
