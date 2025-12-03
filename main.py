@@ -1,5 +1,5 @@
 def main():
-    print("Hello from pf-python-2026-1!")
+    print("Hello from 2024!")
 
 
 if __name__ == "__main__":
